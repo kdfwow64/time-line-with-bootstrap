@@ -23,7 +23,7 @@
     "react-dom": "^16.8.6",
     "react-fontawesome": "^1.6.1",
     "react-granim": "^1.1.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-semantic-ui-range": "^0.7.0",
     "react-vertical-timeline-component": "^2.4.0",
     "reactstrap": "^8.0.0",
